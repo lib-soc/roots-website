@@ -28,7 +28,7 @@
 
     let loaded = writable(0)
     let content = writable({})
-    /*
+    
     loadLocaleContent(content,"countries",loaded)
     let locale = loadLocaleContent(content,"manifesto-component",loaded)
     
@@ -161,9 +161,9 @@
                 hideBlock(contentArrow,contentBlock)
             }
         }
-    })*/
+    })
 </script>
-<!--
+
 {#key $loaded}
     {#if $loaded==2}
         <div id="container" bind:this={root}>
@@ -236,13 +236,22 @@
         </div>
     {/if}
 {/key}
--->
+
 
 <style>
     @import '/css/common.css';
 
+    ol, ul {
+        margin-left: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    li::marker {
+        color: #D87819;
+    }
+
     #main b {
-        color: #d50400;
+        color: #D87819;
     }
 
     #table-content {
