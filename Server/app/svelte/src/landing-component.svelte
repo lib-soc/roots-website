@@ -102,8 +102,9 @@
     @media only screen and (max-width: 1060px) {
         #buttons-grid {
             display: grid;
-            grid-template-columns: 1fr;
+            grid-template-columns: 100%;
             grid-gap: 2rem;
+            justify-items: center;
         }
     }
 
