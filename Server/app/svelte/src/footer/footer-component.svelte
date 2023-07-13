@@ -197,7 +197,7 @@ footer p, footer label {
     width: 4.8rem;
     height: 4.8rem;
     border-radius: 3.4rem;
-    top: 4rem;
+    top: 3rem;
     right: 2rem;
     background: #ffffff;
 }
