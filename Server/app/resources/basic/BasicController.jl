@@ -22,99 +22,63 @@ dict_layouts = Dict(
 
 const landing_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - A Global Network of Libertarian Socialists",
+        :title => "Roots - A Political Party",
         :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Глобальная сеть либертарных социалистов",
-        :description => ""
-    ),
+    )
 )
 
 const manifesto_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Manifesto",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Манифест",
+        :title => "Roots - Manifesto",
         :description => ""
     )
 )
 
 const join_us_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Manifesto",
+        :title => "Roots - Join Us",
         :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Присоединяйся",
-        :description => ""
-    ),
+    )
 )
 
 const groups_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Groups",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Группы",
+        :title => "Roots - Groups",
         :description => ""
     )
 )
 
 const cooperatives_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Cooperatives",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Кооперативы",
+        :title => "Roots - Cooperatives",
         :description => ""
     )
 )
 
 const communes_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Communes",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Коммуны",
+        :title => "Roots - Communes",
         :description => ""
     )
 )
 
 const partners_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Partners",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Партнеры",
+        :title => "Roots - Partners",
         :description => ""
     )
 )
 
 const parties_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Parties",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Партии",
+        :title => "Roots - Parties",
         :description => ""
     )
 )
 
 const compass_info = Dict(
     "en" => Dict(
-        :title => "LibSoc - Political Compass",
-        :description => ""
-    ),
-    "ru" => Dict(
-        :title => "LibSoc - Политический компас",
+        :title => "Roots - Political Compass",
         :description => ""
     )
 )
