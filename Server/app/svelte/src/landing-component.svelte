@@ -95,6 +95,7 @@
         font-size: 1.6rem;
         font-style: var(--sans-serif,sans-serif);
         color: black;
+        box-shadow: 0.15rem 0.15rem 0rem  #5e6551;
     }
 
 
